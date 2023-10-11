@@ -23,3 +23,4 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 #define RGBLIGHT_DEFAULT_VAL 128
 #define RGBLIGHT_DEFAULT_MODE (RGBLIGHT_MODE_RAINBOW_SWIRL + 2)
+#define DYNAMIC_KEYMAP_LAYER_COUNT 5
